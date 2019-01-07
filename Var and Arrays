@@ -1,0 +1,6 @@
+var myName ="jacques"; 
+ a === "jacques"
+console.log(a)
+
+var a = [1, 2, 3,4]
+console.log (a[0] +5+ a[2] + myName )
