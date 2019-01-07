@@ -1,0 +1,5 @@
+//.filter with a constuctor object
+const words = ["Yay", "noway", "how are you", "ok", "very well", "and you", "happy"];
+
+let longWords = words.filter(word => word.length > 4);
+console.log(longWords)
